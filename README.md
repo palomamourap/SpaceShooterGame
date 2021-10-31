@@ -1,2 +1,3 @@
-# spaceship-js
-Space ship game with pure JS
+<h1>Space Shooter Game</h1>
+
+<img src="">
